@@ -1,0 +1,16 @@
+body {
+    background-color:#adb6c4;
+    font-size: medium;
+}
+
+img{
+border-radius:14px;
+border-style: dashed #0e1b30;
+}
+h3{
+    font-style:Lato;
+}
+h5{
+    background-color: rgb(248, 250, 252);
+    border-radius: 14px;
+}
